@@ -1,19 +1,5 @@
-h1{
-    background-color: rgb(233, 90, 90) ;
-    
-}
-h2{
-    background-color: rgb(233, 90, 90) ;
-    
-}
-h3{
-    background-color: rgb(233, 90, 90) ;
-    
-}
-b{
-     background-color: rgb(233, 90, 90) ;
 
-}
+
 u{
      background-color: rgb(233, 90, 90) ;
 }
@@ -22,4 +8,25 @@ marquee{
 }
 *{
     background-color: rgb(229, 221, 221);
+}
+.t_title{
+    font-size: 30px;
+    text-align: center;
+    
+}
+.t_shadow{
+    color: black;
+    text-shadow: 4px 6px 8px red;
+}
+.t_color{
+   
+    text-decoration: underline;
+    font-weight: bold;
+}
+article{
+    font-size: medium;
+}
+mark{
+    background-color:#FF77E4;
+    text-decoration: underline;
 }
