@@ -17,12 +17,14 @@ marquee{
 .t_shadow{
     color: black;
     text-shadow: 4px 6px 8px red;
+    font-size: 70px;
+    text-align: center;
 }
-.t_color{
+/* .t_color{
    
     text-decoration: underline;
     font-weight: bold;
-}
+} */
 article{
     font-size: medium;
 }
