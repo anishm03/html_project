@@ -17,7 +17,7 @@ marquee{
 .t_shadow{
     color: black;
     text-shadow: 4px 6px 8px red;
-    font-size: 70px;
+    font-size: 50px;
     text-align: center;
 }
 /* .t_color{
@@ -29,6 +29,39 @@ article{
     font-size: medium;
 }
 mark{
-    background-color:#FF77E4;
+    background-color:rgb(250, 140, 158);
     text-decoration: underline;
+}
+.box_model{
+    border: 2px solid rgb(232, 37, 70);
+    padding: 20px;
+    margin: 20px;
+    text-align: center;
+    line-height: 20px;
+    word-spacing: 2px;
+}
+.container{
+     display: flex;
+    justify-content: center;
+      align-items: center;
+    font-size: 20px;
+       flex-direction: row;
+
+}
+.items{
+    display: flex;
+    justify-content: center;
+    background-color: rgb(167, 107, 117);
+    height: 60px;
+    width: 160px;
+    margin: 20px;
+    align-items: center;
+    border: 2px solid rgb(211, 54, 80);
+}
+.b_prop{
+    border: 2px solid rgb(210, 69, 93);
+  margin-left: 280px;
+}
+h2{
+    text-align: center;
 }
